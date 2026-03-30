@@ -1,17 +1,32 @@
-# message_app
+# sasi message app
 
-A new Flutter project.
+Android-first Flutter messaging app with a dark modern UI, SMS sending flow, MMS attachment support, contacts sync, call actions, settings, and profile photo update.
 
-## Getting Started
+## Public Preview
 
-This project is a starting point for a Flutter application.
+- Demo video: [docs/media/sasi-demo.mp4](docs/media/sasi-demo.mp4)
+- Exported APK is not committed to git, but local release builds are generated from this project.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Chats, Contacts, and Settings tabs
+- Real Android SMS send flow
+- MMS/image attachment handoff
+- Default SMS app request flow
+- Contacts sync from device
+- Call action from chat and contacts
+- Profile photo update option
+- Light and dark theme support
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Run
+
+```bash
+flutter pub get
+flutter run
+```
+
+## Build APK
+
+```bash
+flutter build apk
+```
