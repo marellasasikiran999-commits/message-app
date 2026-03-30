@@ -4,11 +4,11 @@ Android-first Flutter messaging app with a dark modern UI, SMS sending flow, MMS
 
 ## Live Links
 
-### GitHub Repository
-[message-app](https://github.com/marellasasikiran999-commits/message-app)
-
-### Download APK
-[message_app-release.apk](https://github.com/marellasasikiran999-commits/message-app/blob/main/message_app-release.apk)
+<p align="center">
+  <a href="https://github.com/marellasasikiran999-commits/message-app">GitHub Repository</a> |
+  <a href="docs/media/sasi-demo.mp4">Demo Video</a> |
+  <a href="https://github.com/marellasasikiran999-commits/message-app/blob/main/message_app-release.apk">Download APK</a>
+</p>
 
 ## Public Preview
 
