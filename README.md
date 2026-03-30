@@ -2,6 +2,14 @@
 
 Android-first Flutter messaging app with a dark modern UI, SMS sending flow, MMS attachment support, contacts sync, call actions, settings, and profile photo update.
 
+## Live Links
+
+### GitHub Repository
+[message-app](https://github.com/marellasasikiran999-commits/message-app)
+
+### Download APK
+[message_app-release.apk](https://github.com/marellasasikiran999-commits/message-app/blob/main/message_app-release.apk)
+
 ## Public Preview
 
 - Demo video: [docs/media/sasi-demo.mp4](docs/media/sasi-demo.mp4)
