@@ -9,20 +9,13 @@ Android-first Flutter messaging app with a dark modern UI, SMS sending flow, MMS
 
 ## Screenshots
 
-### Chat Screen
-![Chat Screen](docs/screenshots/chat-screen.jpg)
-
-### Contacts Screen
-![Contacts Screen](docs/screenshots/contacts-screen.jpg)
-
-### Menu Sheet
-![Menu Sheet](docs/screenshots/menu-sheet.jpg)
-
-### Chats Screen
-![Chats Screen](docs/screenshots/chats-screen.jpg)
-
-### Settings Screen
-![Settings Screen](docs/screenshots/settings-screen.jpg)
+<p align="center">
+  <img src="docs/screenshots/chat-screen.jpg" alt="Chat Screen" width="19%">
+  <img src="docs/screenshots/contacts-screen.jpg" alt="Contacts Screen" width="19%">
+  <img src="docs/screenshots/menu-sheet.jpg" alt="Menu Sheet" width="19%">
+  <img src="docs/screenshots/chats-screen.jpg" alt="Chats Screen" width="19%">
+  <img src="docs/screenshots/settings-screen.jpg" alt="Settings Screen" width="19%">
+</p>
 
 ## Features
 
